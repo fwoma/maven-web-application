@@ -35,10 +35,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/womalogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+2025941611,+2025941611
+		Woma Technologies, 
+		Bank of America, Above BoA Bank, Beside Meghana Foods,
+		USA,
+		+202-594-1611,+202-594-1611
 		womafamily@gmail.com
 		<br>
 		<a href="mailto:womafamily@gmail.com">Mail to Woma Technologies</a>
