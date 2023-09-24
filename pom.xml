@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>2.0.1-SNAPSHOT</version>
-	
+	<!-- webhook project demo -->
 	<name>maven-web</name>
 
 	<description>Maven Web Project for Java Project</description>
