@@ -97,13 +97,13 @@
         <repository>
             <id>nexus</id>
             <name>Womm Releases Nexus Repository</name>
-            <url>http://35.92.44.39:8081/repository/Work-Release/</url>
+            <url>http://172.31.25.158:8081/repository/free-style-Release/</url>
         </repository>
 		
         <snapshotRepository>
             <id>nexus</id>
             <name>Woma Snapshot Nexus Repository</name>
-            <url>http://35.92.44.39:8081/repository/Work-Snapshot/</url>
+            <url>http://172.31.25.158:8081/repository/free-style-Snapshot/</url>
         </snapshotRepository>
     </distributionManagement>	
 	
